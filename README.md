@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+# Name: A.Nabithra
+# Register No.: 212224230172
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -10,9 +12,6 @@ To write a python program to perform stop and wait protocol
 6. Stop the Program
 ## PROGRAM
 ```
-Name: A.Nabithra
-Register No.: 212224230172
-
 Server code:
 import socket
 s=socket.socket()
